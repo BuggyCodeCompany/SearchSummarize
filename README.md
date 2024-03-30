@@ -13,6 +13,14 @@ Search Summarize is a web application designed to provide quick and concise summ
 3. **Summarize:** ChatGPT, a powerful language model, analyzes the transcripts of the top 3 videos.
 4. **Read:** Enjoy quick, readable articles summarizing the key points from the videos.
 
+## Demo
+Enter your search
+<img width="1280" alt="Screenshot 2024-03-30 121053" src="https://github.com/BuggyCodeCompany/SearchSummarize/assets/165381152/bef2eb30-5771-4f17-855b-fa958f114d6c">
+
+And get your full summarized article in minutes!
+<img width="1280" alt="Screenshot 2024-03-30 121140" src="https://github.com/BuggyCodeCompany/SearchSummarize/assets/165381152/0bd45424-0164-40f9-9ae9-fecb72c6638f">
+
+
 ## Features
 
 - **Efficiency:** Save time by getting the essential information from multiple videos in one place.
