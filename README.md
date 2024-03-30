@@ -28,7 +28,7 @@ To run SearchSummarize locally, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the community to improve Search Summarize. If you have ideas for new features, find bugs, or want to contribute in any other way, please feel free to open an issue or submit a pull request on our [GitHub repository](link_to_github_repo).
+We welcome contributions from the community to improve Search Summarize. If you have ideas for new features, find bugs, or want to contribute in any other way, please feel free to open an issue or submit a pull request on our GitHub repository.
 
 ## Support
 
